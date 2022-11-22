@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445157004164",
+    "project_id": "foodgrco",
+    "storage_bucket": "foodgrco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445157004164:android:d942fb03bd4ac3e188c3d1",
+        "android_client_info": {
+          "package_name": "com.example.foodgroc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445157004164-a9n2rvfpvlojbo8eg38cv4c7liobf918.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0qPBNAT1BhVOgmp5Ge9s8N2rz_E-QAKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445157004164-a9n2rvfpvlojbo8eg38cv4c7liobf918.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
